@@ -1,13 +1,26 @@
 body {
-    text-align: center;
-    font-family: 'Roboto Serif', sans-serif;
     background-color: #dedbd3;
 }
 
-#bio{
-
+main {
+    text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
 }
 
-footer{
-    display: block;
+
+.alignleft {
+    float:left;
+}
+
+.alignright {
+    float: right;
+}
+
+
+#foot{
+    padding: 20px;
+    background-color: #d6cdbc;
+    position: absolute;
+    bottom: 0;
+    width: 95%;
 }
