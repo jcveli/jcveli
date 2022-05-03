@@ -20,7 +20,9 @@ main {
 #foot{
     padding: 20px;
     background-color: #d6cdbc;
-    position: absolute;
     bottom: 0;
-    width: 95%;
+    position: absolute;
+    width: 90%;
+    
+    
 }
